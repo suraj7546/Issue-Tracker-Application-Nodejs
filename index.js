@@ -19,7 +19,7 @@ app.set("layout extractScripts", true);
 app.set("view engine", "ejs");
 app.set("views", "./views");
 
-// use express router
+// use express routers
 app.use("/", require("./routes"));
 app.listen(port, "0.0.0.0", function (err) {
   if (err) {
