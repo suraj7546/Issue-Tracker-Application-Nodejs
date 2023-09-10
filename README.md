@@ -1,39 +1,43 @@
-Issue Tracker
+# Issue Tracker
 
-###Deployment Link: [issue tracker](https://issue-tracker-nih5.onrender.com/)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=68B587&lines=Issue-tracker!&center=true&size=30">
+  </a>
+</h1>
 
-Problem statement
-Create a nodejs + ejs application to track issues/bugs for a project. Read the Features below on what to implement. You can take inspiration from Github issue tracker or some other application.
+### Deployment Link: [issue tracker](https://issue-tracker-nih5.onrender.com/)
+### [Video link](https://drive.google.com/file/d/1FDREUj-cH27b4NEC0DALkbS4vUuErcZS/view?usp=drive_link)
+# Technologies Used
+- EJS
+- Node.js (Express.js)
+- MondoDB
 
-Instructions
-You are ALLOWED to style the app any way you like.
-Once you have finished with the test, make a video recording of your computer screen (via phone or a software like OBS/screencastify etc) and give a walkthrough of your product (showcase project functionalities). The video can be UPTO 5 mins long.
-Upload frontend and backend code on github, and share the URLs.
+# Prerequisites
 
-Features
-Build a neat UI
-Home Page
-Show a list of projects.
-Give a button to create a new Project (On creating a new project it should appear in the list)
-Create Project Page
-Accept the following fields to create a project
-Name
-Description
-Author
-Project Detail Page
-When the user clicks on a project (in home page) redirect the user to this page which will show bugs related to this project
-User should be able to perform following actions on this page
-Filter by multiple labels i.e. I should be able to filter by 2 or more labels at the same time
-Filter by author
-Search by title and description
-A button to create an issue
-Create issue page
-User should be able to create an issue for a project
-Accept the following fields
-Title
-Description
-Labels (multiple labels can be added to a project, IF a project has a label already show it (in dropdown) as the user types the label in)
-Author
+Before running the application, make sure you have the following installed:
 
-FREE TIPS:
-For good UI, search for similar apps online or search Dribble, Behance websites for UI mockups.
+- Node.js and npm (Node Package Manager)
+- Git (optional, for cloning the repository)
+- MongoDB (or any other database of your choice) set up and running.
+
+
+
+# Running the Application
+
+    1.Start the  server:
+
+        npm start
+    The  server will run on http://localhost:8000.
+
+
+
+# Installation
+
+- Clone the repository:
+https://github.com/suraj7546/Issue-tracker.git
+- npm start
+
+# Additional Notes
+
+- Font Awesome - For providing the awesome icons.
+
