@@ -41,3 +41,6 @@ https://github.com/suraj7546/Issue-tracker.git
 
 - Font Awesome - For providing the awesome icons.
 
+# Video Explaination
+
+https://github.com/suraj7546/Issue-Tracker-Application-Nodejs/assets/92979091/0ce1588f-a1a5-4eab-adae-6266f5fa6196
