@@ -49,5 +49,11 @@ https://github.com/suraj7546/Issue-tracker.git
 
 https://github.com/suraj7546/Issue-Tracker-Application-Nodejs/assets/92979091/0ce1588f-a1a5-4eab-adae-6266f5fa6196
 
-#ScreenShoots
+# ScreenShots
+
+![Screenshot (58)](https://github.com/suraj7546/Issue-Tracker-Application-Nodejs/assets/92979091/88c86f74-c955-4819-b62a-a63f66dc5093)
+
+![Screenshot (59)](https://github.com/suraj7546/Issue-Tracker-Application-Nodejs/assets/92979091/03752ab1-9fae-434a-a79a-3d0fce1e9095)
+
+![Screenshot (61)](https://github.com/suraj7546/Issue-Tracker-Application-Nodejs/assets/92979091/ce997579-24e3-4e3c-b67c-026f1816c05e)
 
